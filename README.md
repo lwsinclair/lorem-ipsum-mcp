@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ssv445-lorem-ipsum-mcp-badge.png)](https://mseep.ai/app/ssv445-lorem-ipsum-mcp)
+
 # lorem-ipsum-mcp
 An lorem ipsum MCP server
 
